@@ -1,0 +1,8 @@
+numpy
+jupyter
+pandas
+scikit-learn
+scipy
+statsmodels
+xgboost
+flask
